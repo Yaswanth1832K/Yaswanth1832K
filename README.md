@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi+I'm+Yaswanth;Software+Developer;Algorithms+%7C+Backend+%7C+Machine+Learning;I+build+real+systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=520&lines=Hi+There!+I'm+Yaswanth Jallipalli;Software+Developer;Backend+%7C+Algorithms+%7C+Machine+Learning;Building+real+software+systems" alt="Typing SVG" />
 </div>
 
----
+<br>
 
 <h2 align="center">About Me 👨‍💻</h2>
 
@@ -12,83 +12,57 @@ I work across backend development, algorithms, and machine learning — creating
 My projects range from full-stack web apps and REST APIs to NLP systems and computer-vision models.
 </p>
 
+<br>
 
----
-
-## 🔬 Core Areas
-
-* Backend Development & REST APIs
-* Data Structures & Algorithmic Applications
-* Machine Learning (NLP & Computer Vision)
-* System Design Fundamentals
-* Embedded & Sensor-based Systems
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 Intelligent Auto-Completion & Conversational Engine
-
-Built a real-time conversational suggestion system using Trie search, Bigram prediction, and Red-Black Tree indexing.
-Provides prefix suggestions, next-word prediction, and semantic relationships between words.
-
-### ✍️ Handwritten Math Symbol Classifier (ResNet-18)
-
-Deep learning OCR system that recognizes handwritten mathematical symbols.
-Includes preprocessing, augmentation, training pipeline, and real-time prediction.
-
-### 🌦 Portable Weather Station (IoT)
-
-Embedded system using sensors and interrupts to monitor environmental conditions with live LCD display and alerts.
-
----
-
-## 🛠 Tech Stack
-
-**Languages**
-`Python` `Java` `C` `JavaScript` `SQL`
-
-**Web & Backend**
-`React` `Node.js` `Express.js` `REST APIs` `MongoDB`
-
-**AI / Data**
-`Pandas` `NumPy` `Scikit-Learn` `PyTorch`
-
-**Tools**
-`Git` `Linux` `Postman` `VS Code` `Docker (learning)`
-
----
-
-## 📊 GitHub Activity
+<h2 align="center">Tech Stack 🛠️</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yaswanth1832K&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaswanth1832K&theme=tokyonight&hide_border=true"/>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <br>
+
+  <!-- Web -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <br>
+
+  <!-- AI -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <br>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
----
+<br>
 
-## 🎯 Currently Working On
-
-**Smart Resume Analyzer (ATS Checker)**
-A web application that analyzes resumes against job descriptions using NLP and similarity algorithms.
-
----
-
-## 🤝 Connect With Me
+<h2 align="center">Connect with Me 🤝</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yaswanth-jallipalli-4b34032b5/">
+  <a href="https://www.linkedin.com/in/yaswanth-jallipalli-4b34032b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:yaswanthjallipalli@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
+<br>
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Yaswanth1832K&label=Profile%20Views&color=blue&style=flat-square"/>
-</p>
+</div>
