@@ -1,66 +1,44 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there,%20I'm%20Yaswanth!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=62" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Yaswanth;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
 </div>
 
-<h1 align="center">About Me 👨‍💻</h1>
+<br>
 
-<p align="center"> 
-  <samp>
-    👋 Hi there! I'm <strong>Yaswanth</strong>, a passionate developer from India.<br>
-    I love building interactive and responsive web applications.<br>
-    <br>
-    🔭 I’m currently working on <strong>Full Stack Web Development Projects</strong><br>
-    🌱 I’m currently learning <strong>MERN Stack & Cloud Technologies</strong><br>
-    💬 Ask me about <strong>React, Node.js, and Python</strong><br>
-    ⚡ Fun fact: <strong>I love exploring new tech stacks!</strong>
-  </samp>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yaswanth1832K&theme=flat&no-frame=false&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+</div>
+
+<br>
+
+<h2 align="center">About Me 👨‍💻</h2>
+
+<p align="center">
+  I'm a <strong>Full Stack Developer</strong> passionate about building efficient, scalable, and user-friendly web applications. <br>
+  With a focus on the <strong>MERN stack and Cloud technologies</strong>, I enjoy solving complex problems and delivering high-quality software solutions.
 </p>
 
 <br>
 
 <h2 align="center">Connect with Me 🤝</h2>
+
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/yaswanth-jallipalli-4b34032b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  &nbsp;&nbsp;
+  <a href="mailto:yaswanthjallipalli@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <br>
 
-<h2 align="center">Languages and Tools 🛠️</h2>
+<h2 align="center">Technological Arsenal 🛠️</h2>
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <br>
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <br>
-  <!-- Database & Tools -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,java,js,ts,html,css,tailwind,redux,git,github,docker,linux,mysql,postgres,postman,vscode&perline=10" alt="Tech Stack" />
+  </a>
 </p>
 
 <br>
@@ -68,11 +46,12 @@
 <h2 align="center">GitHub Stats 📊</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yaswanth1832K&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanth1832K&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaswanth1832K&theme=dracula&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yaswanth1832K&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanth1832K&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaswanth1832K&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br>
