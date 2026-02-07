@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=520&lines=Hi+There!+I'm+Yaswanth Jallipalli;Software+Developer;Backend+%7C+Algorithms+%7C+Machine+Learning;Building+real+software+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=520&lines=Hi+There!+I'm+Yaswanth+Jallipalli;Software+Developer;Backend+%7C+Algorithms+%7C+Machine+Learning" alt="Typing SVG" />
 </div>
 
 <br>
@@ -60,9 +60,3 @@ My projects range from full-stack web apps and REST APIs to NLP systems and comp
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yaswanth1832K&label=Profile%20Views&color=blue&style=flat-square"/>
-</div>
