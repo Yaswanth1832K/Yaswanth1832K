@@ -7,9 +7,11 @@
 <h2 align="center">About Me 👨‍💻</h2>
 
 <p align="center">
-  I'm a <strong>Full Stack Developer</strong> passionate about building efficient, scalable, and user-friendly web applications. <br>
-  With a focus on the <strong>MERN stack and Cloud technologies</strong>, I enjoy solving complex problems and delivering high-quality software solutions.
+Computer Science student and developer interested in building real-world software systems.  
+I work across backend development, algorithms, and machine learning — creating applications that not only function correctly but also make intelligent decisions from data.  
+My projects range from full-stack web apps and REST APIs to NLP systems and computer-vision models.
 </p>
+
 
 ---
 
